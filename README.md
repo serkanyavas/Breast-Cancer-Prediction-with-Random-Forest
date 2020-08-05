@@ -13,9 +13,9 @@ Also you can click the link for Kaggle Kernel:https://www.kaggle.com/serkanyava/
 
 Libraries that I used:
 1. sklearn
-  - metrics
-  - model selection
-  - ensemble
+   1. metrics
+   2. model_selection
+   3. ensemble
 2. numpy
 3. pandas
 4. matplotlib
