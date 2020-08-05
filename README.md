@@ -1,6 +1,6 @@
 # Breast-Cancer-Prediction-with-Random-Forest
 Made on Kaggle 
-![kagglelogo](https://www.dataapplab.com/kaggle-thoughts/kaggle-logo-transparent-300/)
+![kagglelogo](/img/kaggle-logo-transparent-300.png)
 
 This project made for kaggle challenge and contains:
 * Data analysis,
